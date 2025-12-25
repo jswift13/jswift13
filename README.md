@@ -1,34 +1,31 @@
 # 👋 Hi there! I'm Jen!
 
-I transitioned from branding to backend, and I bring both storytelling and structure to how I code. Today I’m studying Systems Analysis and Development, building hands-on projects in Java and Python, and learning how code meets data to solve real-world problems.
+I transitioned from marketing to IT, and I bring both storytelling and structure to how I work. Presently I’m studying Systems Analysis and Development, building hands-on projects to learn how code meets data to solve problems.
 
-## 💻 What I'm working on
+## What I'm currently working on
 
-- 🧾 A personal finance tracker in Java with relational database modeling and backend logic
-- 🧠 Hobby projects to test what I learn — like a Python terminal game for pattern recognition
-- 📊 Building my first data pipeline: from scraping women’s football data to basic visualization
+- An app to help amateur and small professional sports teams be more efficient and reach better sponsors.
+- Hobby projects to test what I learn
 
-## 🧪 Things I've been learning
+## Things I've been learning
 
 - Python scripting + automation (my favorite!!)
-- Java 17 + JDBC + Oracle DB
-- SQL (CREATE, INSERT, JOIN, etc.)
+- Java + JDBC + Oracle DB
+- SQL
 - Git & GitHub CLI
-- HTML/CSS/Bootstrap (for simple UI flows)
+- UX/UI Design
 - Concepts: object-oriented logic, encapsulation, REST
 
-## 🧠 Background that shapes how I code
-
-Before tech, I worked on creative campaigns, audiovisual production, and research projects. That gave me:
+Before tech, I worked on creative campaigns, production, and market research projects. That gave me:
 
 - Strategic thinking: I like to understand the “why” behind what I’m building
 - Communication: I explain decisions clearly and collaborate well
 - Curiosity: I don’t mind being a beginner, as long as I keep moving
 
-## 🔍 What I'm looking for
+## What I'm looking for
 
-I’m currently seeking my **first internship** in data science in an environment where I can grow fast, contribute early, and keep building smarter tools.
+I’m currently seeking my **junior role** in development, in an environment where I can grow fast and contribute early.
 
-## 📫 Let's connect
+## Let's connect
 
-Feel free to open an issue or drop me a message if you want to chat about projects, feedback, or internships. Thanks for stopping by!
+Feel free to open an issue or drop me a message if you want to chat about projects, feedback, or more. Thanks for stopping by!
